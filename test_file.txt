@@ -1,2 +1,6 @@
 hi! hello! how are you?
+<<<<<<< HEAD
 change 2
+=======
+meet tommrow
+>>>>>>> feature
